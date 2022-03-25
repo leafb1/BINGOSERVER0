@@ -1,0 +1,57 @@
+header {
+background-color: orange;
+padding-top: 10px;
+text-align: center;
+padding-bottom: 100px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+}
+
+
+main{
+
+    text-align: center;
+    position: relative;
+    padding-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(70, 243, 229);
+    
+}
+#fondo{
+    width: 100%;
+
+    position: absolute;
+    top: 0;
+    left:0;
+z-index: -1;
+object-fit: cover;
+height: 1000px;
+}
+
+#dyntext{
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+footer{
+    margin-top: 60px;
+background-color: orange;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    color: crimson;
+    
+}
+
+.refer {
+    color: crimson;
+    list-style: none;
+}
+
+a{
+    color: rgb(255, 0, 0);
+text-decoration-line: none;
+font-weight: bold;
+padding-left: 10px;
+}
